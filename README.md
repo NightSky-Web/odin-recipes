@@ -8,4 +8,4 @@ Things that I learned:
     - how to link an URL or local path
     - how to insert images
 
-I should create a web page that shows different recipes, make links to them so users can find them
+A web page that shows different recipes and making links to them, so users can read them
